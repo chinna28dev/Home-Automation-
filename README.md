@@ -15,7 +15,7 @@ using multiple control methods:
 ✅ Mobile App  
 ✅ Web Browser  
 ✅ Google Assistant Voice Commands  
-✅ Future AI JARVIS Integration
+✅ Switches
 ---
 
 
