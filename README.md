@@ -1,8 +1,7 @@
 # Home-Automation-
 
 # 🏠 Smart Home Automation using ESP32  
-### Control by Mobile App 📱 | Web Dashboard 🌐 | Google Assistant 🎙️ | Future AI JARVIS 🤖
-
+### Control by Mobile App 📱 | Web Dashboard 🌐 | Google Assistant 🎙️ | Switches |
 ---
 ## 📌 Project Overview
 This project is a complete **Smart Home Automation System** built using **ESP32** and a **4 Channel Relay Module**.
@@ -92,6 +91,7 @@ Install Arduino IDE on your PC.
 ### 2️⃣ Add ESP32 Board URL
 txt..👇
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
 3️⃣ Install Libraries
 Blynk
 WiFi
