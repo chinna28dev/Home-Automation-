@@ -1,0 +1,11 @@
+🔌 Wiring Connections
+ESP32 Pin	Relay Module
+VIN / 5V	VCC
+GND   	  GND
+GPIO23  	IN1
+GPIO22	  IN2
+GPIO21  	IN3
+GPIO19	  IN4
+
+
+Use COM + NO terminals for appliance control. ⚠️ Start testing with low-voltage devices first.
